@@ -1,2 +1,2 @@
 # This Code Will Detect The Face OF An Image. 
-#I Use The Pre-Trained Classifier Which Detects The Co-Ordinates Of The Face And Predict The Face In The Image.
+The "Image Face Detection with OpenCV and Python" project is a cutting-edge exploration into computer vision, leveraging the power of OpenCV (Open Source Computer Vision Library) and the versatility of the Python programming language. This project aims to develop a robust and efficient system for detecting human faces within images, paving the way for a wide range of applications, from security and surveillance to photography and social media.
